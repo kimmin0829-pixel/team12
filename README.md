@@ -15,6 +15,7 @@
 * streamlit
 * requests
 * pandas
+* plotly
 
 ## 앱 실행 화면
 ![앱 실행 화면](screenshot.png)
